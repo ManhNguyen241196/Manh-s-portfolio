@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manh-s-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/Manh-s-portfolio/static/js/main.88787c2e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Manh-s-portfolio/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Manh-s-portfolio/index.html",
+    "main.f855e6bc.css.map": "/Manh-s-portfolio/static/css/main.f855e6bc.css.map",
+    "main.88787c2e.js.map": "/Manh-s-portfolio/static/js/main.88787c2e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Manh-s-portfolio/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.88787c2e.js"
+  ]
+}
